@@ -1,6 +1,7 @@
-# ryk.github.io
+# blog
 
->[myblog](ryk.github.io)
+
+>[myblog](https://ryk072018.github.io/)
 
 >[jekyllrb.com](https://jekyllrb.com/)
 
