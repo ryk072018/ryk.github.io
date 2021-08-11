@@ -1,7 +1,8 @@
-# ryk.github.io
-
->[myblog](ryk.github.io)
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 >[jekyllrb.com](https://jekyllrb.com/)
 
 >[jekyll](https://github.com/jekyll/jekyll)
