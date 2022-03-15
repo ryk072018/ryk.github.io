@@ -1,12 +1,14 @@
 # setup-ipsec-vpn + Vultr 实现科学上网
 
-## 使用Vultr
+## 🍊使用Vultr
 
-第一步：注册Vultr账号 [这个活动链接优惠$100](https://www.vultr.com/?ref=9075619-8H) 
+### 第一步：
+注册Vultr账号 [这个活动链接优惠$100](https://www.vultr.com/?ref=9075619-8H) 
 
 首页可选择中文。或者使用浏览器自带翻译
 
-第二步：部署服务器
+### 第二步：
+创建和部署服务器
 
 ![image-20220315073328274](https://user-images.githubusercontent.com/27181965/158284083-ad380c63-fe73-4b7a-8214-412d877659ff.png)
 
@@ -14,7 +16,11 @@
 
 ![image-20220315073426556](https://user-images.githubusercontent.com/27181965/158284093-ccfbc2d5-c30e-456d-9f98-e381a7dd953b.png)
 
-## 使用 setup-ipsec-vpn
+---
+
+---
+
+## 🍊使用 setup-ipsec-vpn
 
 ###   [setup-ipsec-vpn github 地址中文文档](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md)
 
@@ -24,7 +30,7 @@
 
 [Xshell Xftp 家庭/学校免费](https://www.xshell.com/zh/free-for-home-school/)
 
-2.在你的 Linux 服务器* （我用的是Ubuntu）
+2.在你的 Linux 服务器* （例子Ubuntu）
 
 使用以下命令快速搭建 IPsec VPN 服务器：
 
@@ -58,9 +64,9 @@ sudo ikev2.sh --auto
 4. 右键单击保存的脚本，选择 **以管理员身份运行** 并按提示操作。
 5. 最后查看电脑自带VPN，连接自己配置的VPN
 
-遇到问题更多参考 [这里](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/ikev2-howto-zh.md)
+遇到问题参考 [这里](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/ikev2-howto-zh.md)
 
-PS:
+
 
 ps1：.p12文件的传送： 使用XFTP 软件拖拽到本地文件夹
 
