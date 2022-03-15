@@ -4,14 +4,14 @@
 
 ### 第一步：
 
-> 注册Vultr账号
+> 注册 Vultr 账号
 
 > 首页可选择中文。或者使用浏览器自带翻译
 
 > 这个活动连接注册赠送$100
 
 
-[![vultr](https://www.vultr.com/media/logo_onwhite.png)](https://www.vultr.com/?ref=9075619-8H)
+[![vultr](https://user-images.githubusercontent.com/27181965/158292988-2febcd03-2812-424b-a5ab-31c9dab1d29f.png)](https://www.vultr.com/?ref=9075619-8H)
 
 
 
