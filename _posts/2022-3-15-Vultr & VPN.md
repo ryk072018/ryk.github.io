@@ -61,6 +61,7 @@ sudo ikev2.sh --auto
 遇到问题更多参考 [这里](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/ikev2-howto-zh.md)
 
 PS:
+
 ps1：.p12文件的传送： 使用XFTP 软件拖拽到本地文件夹
 
 ps2：Xshell 连接Vultr
