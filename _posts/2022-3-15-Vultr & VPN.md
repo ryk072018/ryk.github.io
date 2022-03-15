@@ -1,6 +1,6 @@
 # setup-ipsec-vpn + Vultr 实现科学上网
 
-## 🍊使用Vultr🍊
+## 🍎使用Vultr
 
 ### 第一步：
 
@@ -8,7 +8,7 @@
 
 > 首页可选择中文。或者使用浏览器自带翻译
 
-> 这个活动链接优惠$100
+> 这个活动连接注册赠送$100
 
 
 [![vultr](https://www.vultr.com/media/logo_onwhite.png)](https://www.vultr.com/?ref=9075619-8H)
@@ -29,7 +29,7 @@
 
 ---
 
-## 🍊使用 setup-ipsec-vpn🍊
+## 🍊使用 setup-ipsec-vpn
 
 ###   [setup-ipsec-vpn github中文文档](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/README-zh.md)
 
@@ -73,7 +73,7 @@ sudo ikev2.sh --auto
 2. 右键单击 [ikev2_config_import.cmd](https://github.com/hwdsl2/vpn-extras/releases/latest/download/ikev2_config_import.cmd) 并保存这个辅助脚本到与 `.p12` 文件 **相同的文件夹**。
 3. 右键单击保存的脚本，选择 **属性**。单击对话框下方的 **解除锁定**，然后单击 **确定**。
 4. 右键单击保存的脚本，选择 **以管理员身份运行** 并按提示操作。
-5. 最后查看电脑自带VPN，连接自己配置的VPN
+5. 最后查看电脑自带VPN，连接自己配置的VPN开始Google :sparkles::tada::rocket::sparkles:
 
 > 遇到问题参考 [这里](https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/ikev2-howto-zh.md)
 
